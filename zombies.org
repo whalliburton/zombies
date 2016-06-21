@@ -1,0 +1,4 @@
+#+TITLE: Manual for the Zombie Apocalypse
+#+FILETAGS: zombies
+
+* Zombies
